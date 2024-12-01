@@ -1,0 +1,7 @@
+5,6,11
+5,7,12
+8,0,8
+2,2,4
+
+ good langauge but python is goodJava is good langauge but python is good 
+wordcount:7  it is going to next line
